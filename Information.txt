@@ -1,0 +1,15 @@
+Research Paper Link:
+
+https://arxiv.org/abs/1902.06531
+
+Github Repository Links:
+
+https://github.com/garrisongys/STRIP
+
+Our updated colab link:
+
+https://colab.research.google.com/drive/1Ik9QB2FzuTcVW8xxkllafb4V5qUnZML6?usp=sharing
+
+Video link:
+
+https://youtu.be/Va4wN5TR5GI
